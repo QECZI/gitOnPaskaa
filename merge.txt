@@ -1,5 +1,6 @@
  	if ( !GetOuter()->IsPlayer() )
  	if ( xxxxxxxxxxxxxxxxxxxxxxxx )
+ 	if ( yyyyyyyyyyyyyyyyyyyyyy )
  	{
  	{
 -		CBasePlayer *pPlayer = UTIL_PlayerByIndex( 1 );
