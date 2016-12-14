@@ -1,5 +1,4 @@
  	if ( !GetOuter()->IsPlayer() )
- 	if ( !GetOuter()->IsPlayer() )
  	{
  	{
 -		CBasePlayer *pPlayer = UTIL_PlayerByIndex( 1 );
